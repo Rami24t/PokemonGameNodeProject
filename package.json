@@ -1,0 +1,23 @@
+{
+  "name": "pokemongamenodeproject",
+  "version": "1.0.0",
+  "description": "Pokemon Lite Mini-Game Node JS Project",
+  "main": "pokeNodeProject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rami24t/PokemonGameNodeProject.git"
+  },
+  "author": "Rami Al-Saadi",
+  "bugs": {
+    "url": "https://github.com/Rami24t/PokemonGameNodeProject/issues"
+  },
+  "homepage": "https://github.com/Rami24t/PokemonGameNodeProject#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-mp3-player": "^1.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
